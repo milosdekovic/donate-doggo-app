@@ -2,11 +2,11 @@ A playful web app where users can choose dogs to 'donate' by adding them to a vi
 
 ## Getting Started
 
-First, run the development server:
+Run the development server:
 
 ```bash
 npm install
 npm run dev
+```
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-```
