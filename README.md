@@ -8,3 +8,5 @@ First, run the development server:
 npm install
 npm run dev
 
+This project is licensed under the MIT License - see the LICENSE file for details.
+```
